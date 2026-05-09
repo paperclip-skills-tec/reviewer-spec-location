@@ -1,14 +1,6 @@
 ---
 name: reviewer-spec-location
-description: >
-  Spec-location procedure for code reviewers: before any correctness, architecture,
-  security, quality, or test-coverage review, run this skill to find the authoritative
-  spec document. Without a spec you cannot review correctly — you might approve code
-  that violates the agreed design, or block code for requirements that were already
-  changed. Use this skill at the very start of every review heartbeat, before reading
-  any code or posting any findings. Also invoke when you are unsure where the spec is,
-  when a prior reviewer left a "spec not found" comment, or when asked to verify that
-  your review was done against the right document.
+description: "Spec-location procedure for code reviewers: before any correctness, architecture, security, quality, or test-coverage review, run this skill to find the authoritative spec document. Without a spec you cannot review correctly — you might approve code that violates the agreed design, or block code for requirements that were already changed. Use this skill at the very start of every review heartbeat, before reading any code or posting any findings. Also invoke when you are unsure where the spec is, when a prior reviewer left a \"spec not found\" comment, or when asked to verify that your review was done against the right document."
 ---
 
 ## Why This Matters
